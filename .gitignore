@@ -1,1 +1,4 @@
-__pycache__/
+build
+data/*
+!data/*.zip
+**/__pycache__/
